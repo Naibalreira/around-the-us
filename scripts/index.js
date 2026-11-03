@@ -151,8 +151,6 @@ function renderCard(name, link, container) {
 function handleCardFormSubmit(evt) {
   evt.preventDefault();
   renderCard(cardNameInput.value, cardLinkInput.value, cardsList);
-  newCardForm.reset();
-  resetValidation(newCardForm, validationConfig);
   closeModal(newCardPopup);
 }
 
