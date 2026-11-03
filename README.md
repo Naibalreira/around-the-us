@@ -1,6 +1,8 @@
 # Ao Redor dos EUA (Around The U.S.)
 
-Projeto 9 do curso de Desenvolvimento Web da TripleTen.
+Projeto do curso de Desenvolvimento Front-end da TripleTen.
+
+🔗 **Acesse:** https://naibalreira.github.io/web_project_around_pt/
 
 Página interativa onde o usuário edita o próprio perfil e compartilha fotos de lugares, com curtidas, exclusão de cartões e visualização ampliada das imagens.
 
