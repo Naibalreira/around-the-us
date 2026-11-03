@@ -1,4 +1,9 @@
 .content {
-  flex-shrink: 0;
-  flex-grow: 1;
+  padding: 40px 0 48px;
+}
+
+@media screen and (max-width: 619px) {
+  .content {
+    padding: 42px 0 36px;
+  }
 }
