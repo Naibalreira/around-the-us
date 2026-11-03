@@ -1,27 +1,20 @@
 .page {
-  background: #000;
-}
-
-.page__content {
-  padding: 0 40px;
-  background-color: black;
-  min-height: 100vh;
+  min-width: 320px;
+  background-color: #000;
+  color: #fff;
+  font-family: "Inter", Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  display: flex;
-  flex-direction: column;
+  text-rendering: optimizeLegibility;
 }
 
-.page__section {
-  width: 100%;
+.page__container {
   max-width: 880px;
-  box-sizing: border-box;
-  position: relative;
   margin: 0 auto;
+  padding: 0 19px;
 }
 
-@media screen and (max-width: 720px) {
-  .page__content {
-    padding: 0 20px;
+@media screen and (max-width: 919px) {
+  .page__container {
+    max-width: 581px;
   }
 }
