@@ -1,8 +1,10 @@
 # Ao Redor dos EUA (Around The U.S.)
 
+![Prévia do site Ao Redor dos EUA](./preview.jpg)
+
 Projeto do curso de Desenvolvimento Front-end da TripleTen.
 
-🔗 **Acesse:** https://naibalreira.github.io/web_project_around_pt/
+🔗 **Acesse:** https://naibalreira.github.io/around-the-us/
 
 Página interativa onde o usuário edita o próprio perfil e compartilha fotos de lugares, com curtidas, exclusão de cartões e visualização ampliada das imagens.
 
